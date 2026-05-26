@@ -21,13 +21,11 @@ A simple Node.js terminal application to manage people data using CRUD operation
 ## Project Structure
 
 ```text
-PeopleManager
+NODEJS-CRUD-TASK
 │
+├── node_modules
 ├── app.js
 ├── package.json
 ├── package-lock.json
 └── README.md
 ```
-## Author
-
-Yara Khattab
